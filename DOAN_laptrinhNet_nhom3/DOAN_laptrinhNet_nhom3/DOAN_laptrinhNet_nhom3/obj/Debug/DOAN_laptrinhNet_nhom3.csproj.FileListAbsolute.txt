@@ -1,0 +1,165 @@
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe.config
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.pdb
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.AssemblyReference.cache
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmdangnhap.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Properties.Resources.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.GenerateResource.cache
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CoreCompileInputs.cache
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.exe
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.pdb
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmtaohoadonnhap.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonnhap.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonnhaphang.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe.config
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.pdb
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.AssemblyReference.cache
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonnhaphang.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmdangnhap.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmkhachhang.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonnhap.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmtaohoadonnhap.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Properties.Resources.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.GenerateResource.cache
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CoreCompileInputs.cache
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.exe
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.pdb
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkedoanhthu.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonbanhang.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmmenu.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkekhohang.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmhoadonbanhang.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonbanhang.resources
+C:\Users\nam\OneDrive\Máy tính\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Frmlydohuydonhang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe.config
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.pdb
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.AssemblyReference.cache
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonbanhang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonnhaphang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmdangnhap.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmhoadonbanhang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmkhachhang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonbanhang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonnhap.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Frmlydohuydonhang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmmenu.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkekhohang.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmtaohoadonnhap.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkedoanhthu.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Properties.Resources.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\test.QLYSACH.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.GenerateResource.cache
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CoreCompileInputs.cache
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.exe
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.pdb
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\Siticone.UI.dll
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DoAnQuanLiSach.FrmNCC.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DoAnQuanLiSach.frmTaiKhoan.resources
+D:\Cong NgHẹ .NeT\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_lap.4E60C321.Up2Date
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe.config
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.pdb
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonnhaphang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmdangnhap.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmhoadonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmkhachhang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DoAnQuanLiSach.frmTaiKhoan.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkekhohang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkedoanhthu.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CopyComplete
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.exe
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.pdb
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlydohuydonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmmenu.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmHoadonnhaphang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmLichsuhoadonnhaphang.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmQuanlysach.resources
+C:\Users\User\OneDrive\Desktop\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmNhacungcap.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmChitiethoadonnhaphang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmdangnhap.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmhoadonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmHoadonnhaphang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmkhachhang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmLichsuhoadonnhaphang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlydohuydonbanhang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmmenu.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmNhacungcap.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmQuanlysach.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DoAnQuanLiSach.frmTaiKhoan.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkekhohang.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkedoanhthu.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.exe
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.pdb
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe.config
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.pdb
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmQuanlytaikhoan.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CopyComplete
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe.config
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.pdb
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.AssemblyReference.cache
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmchitiethoadonbanhang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmChitiethoadonnhaphang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmdangnhap.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmhoadonbanhang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmHoadonnhaphang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmkhachhang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlichsuhoadonbanhang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmLichsuhoadonnhaphang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmlydohuydonbanhang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmmenu.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmNhacungcap.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmQuanlysach.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmQuanlytaikhoan.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkekhohang.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmthongkedoanhthu.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Properties.Resources.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.GenerateResource.cache
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CoreCompileInputs.cache
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CopyComplete
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.exe
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.pdb
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmChiacalamviec.resources
+F:\dulieuabc\Tailieu_hoctap_cachocphan\Kihoc_5\Doan_laptrinhNet\DOAN\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmTaikhoandangnhap.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe.config
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.exe
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\bin\Debug\DOAN_laptrinhNet_nhom3.pdb
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.AssemblyReference.cache
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmChiacalamviec.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmChitiethoadonbanhang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmChitiethoadonnhaphang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmDangnhap.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmHoadonbanhang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmHoadonnhaphang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmKhachhang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmLichsuhoadonbanhang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmLichsuhoadonnhaphang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmLydohuydonbanhang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmMenu.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmNhacungcap.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmQuanlysach.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmQuanlytaikhoan.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmTaikhoandangnhap.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmThongkekhohang.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.frmThongkedoanhthu.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.Properties.Resources.resources
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.GenerateResource.cache
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CoreCompileInputs.cache
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.csproj.CopyComplete
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.exe
+D:\.net pt\DoanNhom3 (1)\DoanNhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\DOAN_laptrinhNet_nhom3\obj\Debug\DOAN_laptrinhNet_nhom3.pdb
